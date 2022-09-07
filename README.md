@@ -1,5 +1,5 @@
 # Ereignis Enter
-## Ereignis (event) Enter
+
 Das Ereignis Enter eines Steuerelements tritt auf, falls der Benutzer das betreffende Steuerelement angewählt hat, also zum aktuellen Steuerelement gemacht hat.
 
 
